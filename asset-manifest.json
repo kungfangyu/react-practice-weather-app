@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-practice-weather-app/static/css/main.4b739bc9.chunk.css",
+    "main.js": "/react-practice-weather-app/static/js/main.8e523738.chunk.js",
+    "main.js.map": "/react-practice-weather-app/static/js/main.8e523738.chunk.js.map",
+    "runtime-main.js": "/react-practice-weather-app/static/js/runtime-main.605a0526.js",
+    "runtime-main.js.map": "/react-practice-weather-app/static/js/runtime-main.605a0526.js.map",
+    "static/css/2.679831fc.chunk.css": "/react-practice-weather-app/static/css/2.679831fc.chunk.css",
+    "static/js/2.9f97c3ef.chunk.js": "/react-practice-weather-app/static/js/2.9f97c3ef.chunk.js",
+    "static/js/2.9f97c3ef.chunk.js.map": "/react-practice-weather-app/static/js/2.9f97c3ef.chunk.js.map",
+    "index.html": "/react-practice-weather-app/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/react-practice-weather-app/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.4b739bc9.chunk.css.map": "/react-practice-weather-app/static/css/main.4b739bc9.chunk.css.map",
+    "static/js/2.9f97c3ef.chunk.js.LICENSE.txt": "/react-practice-weather-app/static/js/2.9f97c3ef.chunk.js.LICENSE.txt",
+    "static/media/airFlow.93b49bb5.svg": "/react-practice-weather-app/static/media/airFlow.93b49bb5.svg",
+    "static/media/day-cloudy.005047ee.svg": "/react-practice-weather-app/static/media/day-cloudy.005047ee.svg",
+    "static/media/loading.f8d56fd5.svg": "/react-practice-weather-app/static/media/loading.f8d56fd5.svg",
+    "static/media/rain.8e10718e.svg": "/react-practice-weather-app/static/media/rain.8e10718e.svg",
+    "static/media/refresh.e352fc8b.svg": "/react-practice-weather-app/static/media/refresh.e352fc8b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605a0526.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.9f97c3ef.chunk.js",
+    "static/css/main.4b739bc9.chunk.css",
+    "static/js/main.8e523738.chunk.js"
+  ]
+}
